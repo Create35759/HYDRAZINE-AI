@@ -1,7 +1,22 @@
 # HYDRAZINE-AI
-THIS HYDRAZINE AI CAPABLE TO DO WORK LIKE PREDICTING DISEASE AND CAN PREDICTING FAILURE IN DRUGS MANUFACTURING. IT IS RESEARCH BASED AI WHICH HELP DOCTOR & SCIENTIST TO FIND A NEW MEDICINE FOR UNKNOWN DISEASES. MAIN PURPOSE TO PREDICTING FAILURE IN MAKING NEW DRUGS HOW MUCH IT TAKE TO DEVELOPED.
-HYDRAZINE AI aim to provide a better tool for Visualizations of drug molecule in intractive mode so that scientist get clear insights about toxicity of drug , can this drug really help to fight any specific disease.
-in-built chat mode provide a very clear insight that what ai thinking about their predictions,costing of making drug and can generate pdf for research purpose so that the user work load will be managable.
+Hydrazine AI is an advanced, research-driven artificial intelligence platform designed to transform drug discovery and medical prediction.
+
+It is capable of:
+
+Predicting diseases at early stages using data-driven models
+Forecasting potential failures in drug manufacturing processes
+Estimating the time, cost, and success probability of developing new drugs
+
+The core mission of Hydrazine AI is to reduce uncertainty in pharmaceutical research by identifying risks and inefficiencies before they occur. This enables scientists and pharmaceutical companies to make faster, smarter, and more cost-effective decisions.
+
+Hydrazine AI also provides:
+
+Interactive molecular visualization tools that allow scientists to explore drug structures in detail
+Toxicity and efficacy analysis, helping determine whether a drug can effectively target a specific disease
+AI-powered insights through an integrated chat interface that explains predictions, reasoning, and outcomes in a transparent way
+Automated research report generation (PDFs) to streamline documentation and reduce workload
+
+By combining predictive intelligence, visualization, and explainability, Hydrazine AI empowers doctors and researchers to accelerate the discovery of new medicines—especially for unknown or complex diseases.
 ![Banner](ASSETS/HYDRAZINE.png)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
