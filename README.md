@@ -20,9 +20,9 @@ By combining predictive intelligence, visualization, and explainability, Hydrazi
 ![Banner](ASSETS/HYDRAZINE.png)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)<br>
 
-**TECH STACK**<br>
+**TECH STACKS**<br>
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![NUMPY](https://img.shields.io/badge/NUMPY%2B-blue.svg)](https://numpy.org/).
 [![PANDAS](https://img.shields.io/badge/PANDAS%2B-red.svg)](https://pandas.pydata.org/).
@@ -30,4 +30,11 @@ By combining predictive intelligence, visualization, and explainability, Hydrazi
 [![RDKIT](https://img.shields.io/badge/RDKIT-red.svg)](https://pypi.org/project/rdkit/)
 [![TORCH](https://img.shields.io/badge/TORCH-yellow.svg)](https://pypi.org/project/torch/)
 [![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-blue.svg)](https://matplotlib.org/stable/tutorials/images.html)
+[![FLET](https://img.shields.io/badge/FLET-pink.svg)](https://flet.dev/)
+[![FASTAPI](https://img.shields.io/badge/FASTAPI-royalblue.svg)](https://fastapi.tiangolo.com/)<br>
+<br>
+**ARCHITECTURE**<br>
+
+
+
 
