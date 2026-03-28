@@ -28,6 +28,6 @@ By combining predictive intelligence, visualization, and explainability, Hydrazi
 [![PANDAS](https://img.shields.io/badge/PANDAS%2B-red.svg)](https://pandas.pydata.org/).
 [![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL%2B-red.svg)](https://www.postgresql.org/).
 [![RDKIT](https://img.shields.io/badge/RDKIT-red.svg)](https://pypi.org/project/rdkit/)
-[![TORCH(https://img.shields.io/badge/TORCH-yellow.svg)](https://pypi.org/project/torch/)
-[![MATPLOTLIB(https://img.shields.io/badge/MATPLOTLIB-blue.svg)](https://matplotlib.org/stable/tutorials/images.html)
+[![TORCH](https://img.shields.io/badge/TORCH-yellow.svg)](https://pypi.org/project/torch/)
+[![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-blue.svg)](https://matplotlib.org/stable/tutorials/images.html)
 
