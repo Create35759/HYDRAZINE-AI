@@ -21,3 +21,7 @@ By combining predictive intelligence, visualization, and explainability, Hydrazi
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+**TECH STACK**
+[![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
+[![NUMPY](https://img.shields.io/badge/NUMPY%2B-blue.svg)](https://numpy.org/).
