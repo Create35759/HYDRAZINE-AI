@@ -31,7 +31,10 @@ By combining predictive intelligence, visualization, and explainability, Hydrazi
 [![TORCH](https://img.shields.io/badge/TORCH-yellow.svg)](https://pypi.org/project/torch/)
 [![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-blue.svg)](https://matplotlib.org/stable/tutorials/images.html)
 [![FLET](https://img.shields.io/badge/FLET-pink.svg)](https://flet.dev/)
-[![FASTAPI](https://img.shields.io/badge/FASTAPI-royalblue.svg)](https://fastapi.tiangolo.com/)<br>
+[![FASTAPI](https://img.shields.io/badge/FASTAPI-royalblue.svg)](https://fastapi.tiangolo.com/)
+[![PLOTLY](https://img.shields.io/badge/PLOTLY-royalred.svg)](https://plotly.com/python/)
+[![TRANSFORMER_AUTOTOKENSIER](https://img.shields.io/badge/TRANSFORMERS_AUTOTOKENSIER-royalred.svg)](https://huggingface.co/docs/transformers/index)
+[![REPORTLIB](https://img.shields.io/badge/REPORTLIB-royalred.svg)](https://pypi.org/project/reportlib/)<br>
 <br>
 **ARCHITECTURE**<br>
 
